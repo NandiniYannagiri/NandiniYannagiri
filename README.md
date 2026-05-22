@@ -19,7 +19,7 @@ As the founder of “Learn To Pro”, my mission is to build a strong learning c
 - Created educational technical content on YouTube
 - Developed beginner-friendly coding tutorials
 - Exploring AI, Web Development, and Automation projects
-## Skills 
+## 🛠 Skills 
 Python | SQL | DSA(Data Structures & Algorithms) | Azure | Data Analysis | Power BI
 
 ### 📫 Connect With Me
