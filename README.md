@@ -23,5 +23,5 @@ As the founder of “Learn To Pro”, my mission is to build a strong learning c
 
 ## 📫 Connect With Me
 - YouTube: @LearnToProo
-- LinkedIn: [
-](https://linkedin.com/in/nandini-yannagiri-490739217)- Email: nandiniyannagiri@gmail.com
+- LinkedIn: https://linkedin.com/in/nandini-yannagiri-490739217
+- Email: nandiniyannagiri@gmail.com
