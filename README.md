@@ -14,7 +14,7 @@ As the founder of “Learn To Pro”, my mission is to build a strong learning c
 
 ---
 ## 🏆 Achievements
-- Trained 2000+students in Python programming and DSA
+- Trained 5000+ students in Python programming and DSA
 - Built real-world projects using Flask and Python
 - Created educational technical content on YouTube
 - Developed beginner-friendly coding tutorials
