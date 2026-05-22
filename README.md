@@ -14,14 +14,10 @@ As the founder of “Learn To Pro”, my mission is to build a strong learning c
 
 ---
 
-## Skills
-- Python
-- SQL
-- Flask
-- Data Structures & Algorithms
-- Git & GitHub
+### Skills 
+Python | SQL | DSA(Data Structures & Algorithms) | Azure | Data Analysis | Power BI
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 - YouTube: @LearnToProo
 - LinkedIn: https://linkedin.com/in/nandini-yannagiri-490739217
 - Email: nandiniyannagiri@gmail.com
