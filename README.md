@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**NandiniYannagiri/NandiniYannagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Nandini Yannagiri
 
-Here are some ideas to get you started:
+## Founder of Learn To Pro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As the founder of “Learn To Pro”, my mission is to build a strong learning community for students and aspiring developers who want to master Python programming, Data Structures & Algorithms (DSA), SQL, and real-world software development skills. With a passion for teaching and practical problem solving, I focus on simplifying complex technical concepts into easy-to-understand learning experiences.
+
+- Currently, I work on developing educational content, coding projects, and practical applications in areas such as Python development, image processing, web applications, and competitive programming. I also explore innovative ideas in technology, e-commerce, and agriculture-based solutions that can create real-world impact.
+
+- I enjoy teaching, mentoring, and creating technical content. Through my YouTube channel, “Learn To Pro,” I share beginner-friendly tutorials, coding sessions, interview preparation content, and project-based learning resources to help students grow confidently in their careers.
+
+- My goal is to empower learners with industry-relevant skills, encourage problem-solving thinking, and build technology-driven solutions that make learning easier and more accessible for everyone.
+
+---
+
+## Skills
+- Python
+- SQL
+- Flask
+- Data Structures & Algorithms
+- Git & GitHub
+
+## 📫 Connect With Me
+- YouTube: @LearnToProo
+- LinkedIn: [
+](https://linkedin.com/in/nandini-yannagiri-490739217)- Email: nandiniyannagiri@gmail.com
