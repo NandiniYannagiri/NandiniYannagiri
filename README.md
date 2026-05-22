@@ -13,8 +13,13 @@ As the founder of “Learn To Pro”, my mission is to build a strong learning c
 - My goal is to empower learners with industry-relevant skills, encourage problem-solving thinking, and build technology-driven solutions that make learning easier and more accessible for everyone.
 
 ---
-
-### Skills 
+## 🏆 Achievements
+- Trained 2000+students in Python programming and DSA
+- Built real-world projects using Flask and Python
+- Created educational technical content on YouTube
+- Developed beginner-friendly coding tutorials
+- Exploring AI, Web Development, and Automation projects
+## Skills 
 Python | SQL | DSA(Data Structures & Algorithms) | Azure | Data Analysis | Power BI
 
 ### 📫 Connect With Me
