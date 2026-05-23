@@ -23,6 +23,6 @@ As the founder of “Learn To Pro”, my mission is to build a strong learning c
 Python | SQL | DSA(Data Structures & Algorithms) | Azure | Data Analysis | Power BI
 
 ### 📫 Connect With Me
-- YouTube: @LearnToProo
+- YouTube: https://www.youtube.com/@LearnToProo
 - LinkedIn: https://linkedin.com/in/nandini-yannagiri-490739217
 - Email: nandiniyannagiri@gmail.com
